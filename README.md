@@ -3,7 +3,7 @@
 🚀 *Site vitrine WordPress* réalisé pour un cabinet de thérapie de couple musulman.  
 Le projet met en avant une identité visuelle sobre et professionnelle, tout en intégrant des fonctionnalités utiles pour les clients.
 
-🌐 Lien du site
+🌐 Visitez le site en ligne
 👉 [psydecouplemusulman.fr](https://psydecouplemusulman.fr/)
 
 🛠️ Technologies & Outils utilisés
