@@ -22,7 +22,6 @@ Le projet met en avant une identité visuelle sobre et professionnelle, tout en 
 
 📱 Aperçu
 [Capture du site](site)  
-*(Exemple : tu peux uploader une vraie capture d’écran dans ton repo pour l’afficher ici)*
 
 
 📌 Auteur
