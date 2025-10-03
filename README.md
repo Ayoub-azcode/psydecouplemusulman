@@ -21,7 +21,7 @@ Le projet met en avant une identité visuelle sobre et professionnelle, tout en 
 - Création d’un **logo personnalisé** pour renforcer l’identité visuelle  
 
 📱 Aperçu
-![Capture du site](https://psydecouplemusulman.fr/wp-content/uploads/2025/10/capture.jpg)  
+![Capture du site](site)  
 *(Exemple : tu peux uploader une vraie capture d’écran dans ton repo pour l’afficher ici)*
 
 
